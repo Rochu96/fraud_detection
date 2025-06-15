@@ -1,0 +1,1 @@
+print("traing the commit without -m")
